@@ -1,3 +1,7 @@
+# Why
+
+This is a little calc made with Angular CLI for study purposes
+
 # Calculadora
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
